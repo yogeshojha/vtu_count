@@ -1,9 +1,11 @@
 # Installation
 
 $ git clone http://github.com/yogeshojha/vtu_count.git
+
 $ cd vtu_count
 
 # Requirements
+
 This requires mechanize to be installed
 
 $ sudo pip install mechanize
@@ -23,4 +25,5 @@ y for save
 # Instructions for running the program
 
 $ python count.py
+
 Takes lot of time for whole class. Keep Patience
